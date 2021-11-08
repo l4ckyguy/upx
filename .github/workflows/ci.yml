@@ -3,15 +3,7 @@
 
 name: 'CI'
 
-on:
-  push:
-    branches:
-      - '*'
-      - '!appveyor*'
-      - '!gitlab*'
-      - '!travis*'
-
-  workflow_dispatch:
+on: workflow_dispatch:
 
 jobs:
   job-rebuild-and-verify-stubs:
