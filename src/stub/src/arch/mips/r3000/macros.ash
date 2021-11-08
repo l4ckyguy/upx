@@ -26,7 +26,7 @@
 ;  http://www.oberhumer.com/opensource/ucl/
 ;
 ;  Jens Medoch
-;  <jssg@users.sourceforge.net>
+
 ;
  */
 
@@ -35,7 +35,7 @@
         .align  0
 .endm
 
-/* http://math-atlas.sourceforge.net/devel/assembly/mipsabi32.pdf
+
  *   When calling position independent functions $25 must contain
  *   the address of the called function.  [$25 === $t9 === $jp]
  */

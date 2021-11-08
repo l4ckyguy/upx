@@ -26,7 +26,7 @@
    <markus@oberhumer.com>               <ezerotven+github@gmail.com>
 
    John F. Reiser
-   <jreiser@users.sourceforge.net>
+
  */
 
 #ifndef DEBUG  /*{*/
@@ -627,7 +627,7 @@ xfind_pages(unsigned mflags, Elf32_Phdr const *phdr, int phnum,
 #if defined(__arm__)  /*{*/
                                &&  phdr->p_memsz
 // Android < 4.1 (kernel < 3.0.31) often has PT_INTERP of /system/bin/linker
-// with bad PT_LOAD[0].  https://sourceforge.net/p/upx/bugs/221
+
 // Type: EXEC (Executable file)
 //
 // Program Headers:

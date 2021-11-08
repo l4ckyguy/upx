@@ -26,7 +26,7 @@
 ;  http://www.oberhumer.com/opensource/ucl/
 ;
 ;  Jens Medoch
-;  <jssg@users.sourceforge.net>
+
 ;
  */
 

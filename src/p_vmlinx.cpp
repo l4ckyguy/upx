@@ -26,7 +26,7 @@
    <markus@oberhumer.com>               <ezerotven+github@gmail.com>
 
    John Reiser
-   <jreiser@users.sourceforge.net>
+
  */
 
 

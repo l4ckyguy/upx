@@ -939,7 +939,7 @@ Please report all bugs immediately to the authors.
 
  John F. Reiser <jreiser@BitWagon.com>
 
- Jens Medoch <jssg@users.sourceforge.net>
+
 
 
 

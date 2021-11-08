@@ -22,7 +22,7 @@
 ;  59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
 ;
 ;  John Reiser
-;  <jreiser@users.sourceforge.net>
+
 */
 
 #include "arm.v5a-linux.kernel.vmlinux-head.S"

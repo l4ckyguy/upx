@@ -27,7 +27,7 @@
 ;  <markus@oberhumer.com>               <ezerotven+github@gmail.com>
 ;
 ;  John Reiser
-;  <jreiser@users.sourceforge.net>
+
 */
 
 #include "arch/i386/macros.S"

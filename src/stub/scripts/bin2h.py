@@ -73,7 +73,7 @@ def w_header_c(w, ifile, ofile, n):
    <markus@oberhumer.com>               <ezerotven+github@gmail.com>
 
    John F. Reiser
-   <jreiser@users.sourceforge.net>
+
  */\n\n\n""")
 
 

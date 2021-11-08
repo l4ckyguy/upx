@@ -21,7 +21,7 @@
    59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
 
    John F. Reiser
-   <jreiser@users.sourceforge.net>
+
 */
 
 //#include "regs.h"

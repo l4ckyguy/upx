@@ -26,7 +26,7 @@
    <markus@oberhumer.com>               <ezerotven+github@gmail.com>
 
    John F. Reiser
-   <jreiser@users.sourceforge.net>
+
 */
 
 #define M_NRV2B_LE32    2

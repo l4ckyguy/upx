@@ -24,7 +24,7 @@
 //  <markus@oberhumer.com>               <ezerotven+github@gmail.com>
 //
 //  John F. Reiser
-//  <jreiser@users.sourceforge.net>
+
 //
 
 #define SIMULATE_ON_LINUX_EABI4 0

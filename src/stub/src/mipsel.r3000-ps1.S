@@ -27,7 +27,7 @@
 ;  <markus@oberhumer.com>               <ezerotven+github@gmail.com>
 ;
 ;  Jens Medoch
-;  <jssg@users.sourceforge.net>
+
 ;
 */
 

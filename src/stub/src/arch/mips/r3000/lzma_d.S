@@ -27,7 +27,7 @@
    <markus@oberhumer.com>               <ezerotven+github@gmail.com>
 
    John F. Reiser                       Jens Medoch
-   <jreiser@users.sourceforge.net>      <jssg@users.sourceforge.net>
+
  */
 
 section     LZMA_DEC10
