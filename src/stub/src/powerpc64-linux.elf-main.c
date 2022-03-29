@@ -1,4 +1,4 @@
-#ifndef BIG_ENDIAN  //{
+#ifndef BIG_ENDIAN
 #define BIG_ENDIAN 1
-#endif  //}
+#endif
 #include "powerpc64le-linux.elf-main.c"

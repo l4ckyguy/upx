@@ -87,7 +87,7 @@ endif
 ifeq ($(findstring clang,$(CXX)),)
   CXXFLAGS_NO_DELETE_NULL_POINTER_CHECKS ?= -fno-delete-null-pointer-checks
 endif
-CXXFLAGS_WERROR ?= -Werror
+CXXFLAGS_WERROR ?= -w
 
 # Mandatory Flags - DO NOT CHANGE!
 mf.CPPFLAGS += $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES)

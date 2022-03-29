@@ -1,4 +1,4 @@
-#ifndef __PPC_REGS__  /*{*/
+#ifndef __PPC_REGS__
 #define __PPC_REGS__ 1
 
 #define r0 0
@@ -34,13 +34,9 @@
 #define r30 30
 #define r31 31
 
-// http://refspecs.linux-foundation.org/elf/elfspec_ppc.pdf
-//
-/* Stack pointer */
 #define sp 1
-SZ_FRAME= 6*4  // (sp,cr,lr, xx,yy,zz) save area per calling convention
+SZ_FRAME = 6 * 4
 
-/* Subroutine arguments; not saved by callee */
 #define a0 3
 #define a1 4
 #define a2 5
@@ -50,27 +46,16 @@ SZ_FRAME= 6*4  // (sp,cr,lr, xx,yy,zz) save area per calling convention
 #define a6 9
 #define a7 10
 
-/* Scratch (temporary) registers; not saved by callee */
-//#define t0  2
 #define t1 11
 #define t2 12
 #define t3 13
-/* t4 is unofficial */
+
 #define t4 14
 
-/* branch and link */
 #define call bl
 
-/* branch to link register */
-#define ret  blr
+#define ret blr
 
-/* move register */
 #define movr mr
 
-#endif  /*} __PPC_REGS__ */
-
-
-/*
-vi:ts=4:et:nowrap
-*/
-
+#endif
